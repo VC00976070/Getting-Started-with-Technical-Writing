@@ -22,6 +22,7 @@ Explore curated technical writing guides and educational resources—designed fo
 - Git & GitHub Workflows  
 - Snagit, Draw.io, VS Code  
 - SDLC, DDLC, Agile documentation flows  
+- Github pages
 
 ---
 
