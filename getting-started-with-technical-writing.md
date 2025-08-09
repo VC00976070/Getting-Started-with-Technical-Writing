@@ -28,7 +28,6 @@ Technical writing involves creating clear, concise documentation that helps user
 - Release notes
 - Online help systems
 - Knowledge base articles
-- Troubleshooting article
 
 ---
 
